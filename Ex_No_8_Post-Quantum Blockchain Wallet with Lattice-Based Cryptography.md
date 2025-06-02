@@ -68,15 +68,11 @@ contract PostQuantumWallet {
 # Expected Output:
 Users register using a post-quantum secure public key.
 
+![image](https://github.com/user-attachments/assets/94e731b0-0f1a-48cf-bd68-3adf929a744e)
 
 Transactions require a quantum-resistant signature for authentication.
 
-
-If a traditional quantum-vulnerable hash is used, the transaction fails.
-
-![b81](https://github.com/user-attachments/assets/b295afcc-2ad3-4c16-b9c6-3a02603e3f5c)
-
-![b82](https://github.com/user-attachments/assets/e5fb5708-e712-4f30-aa69-f71022290d40)
+![image](https://github.com/user-attachments/assets/d6626c82-7b6b-44ce-8baf-bed17db7697c)
 
 High-Level Overview:
 First quantum-safe Ethereum-compatible wallet prototype.
